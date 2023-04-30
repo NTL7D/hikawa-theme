@@ -9,18 +9,18 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #407FB1;
-  --hover-color: #164983;
+  --main-color: #597493;
+  --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://clearvision.github.io/images/sapphire.jpg');
-  --background-shading: 100%;
+  --background-image: url('https://i.imgur.com/zQLS7Cs.jpg');
+  --background-shading: 40%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -30,7 +30,7 @@
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
-  --background-blur: 3px;
+  --background-blur: 0px;
   --background-overlay: rgba(0,0,0,0.6);
   --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-popout-position: center;
@@ -65,7 +65,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: Ysabeau;
+  --main-font: PT Sans;
   --code-font: Fira Code;
   --channels-width: 220px;
   --members-width: 240px;
