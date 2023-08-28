@@ -1,26 +1,15 @@
-/**
- * @name hikawa
- * @author ClearVision Team
- * @version 6.3.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite 7pNUC9C
- * @BDEditor Clear Vision
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@100;300;400;500;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #597493;
-  --hover-color: #1e63b3;
-  --success-color: #43b581;
-  --danger-color: #982929;
+  --main-color: #3B8EED;
+  --hover-color: #5183BD;
+  --success-color: #209761;
+  --danger-color: #D12A2A;
   --url-color: var(--main-color);
   --background-image: url('https://i.imgur.com/zQLS7Cs.jpg');
-  --background-shading: 40%;
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -37,12 +26,12 @@
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
   --user-popout-attachment: fixed;
-  --user-popout-brightness: 100%;
-  --user-popout-contrast: 100%;
-  --user-popout-saturation: 100%;
+  --user-popout-brightness: 54%;
+  --user-popout-contrast: 159%;
+  --user-popout-saturation: 143%;
   --user-popout-grayscale: 0%;
-  --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-invert: 10%;
+  --user-popout-blur: 0px;
   --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
